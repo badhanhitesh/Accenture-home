@@ -10,9 +10,6 @@
 
 Welcome to the Accenture US Website Replica! This project is a faithful recreation of the official Accenture US website, built with Next.js to ensure optimal performance and a seamless user experience.
 
-<div align="center">
-  <img src="https://your-website-preview-image-url" alt="Website Preview" width="80%" />
-</div>
 
 ---
 
