@@ -1,6 +1,6 @@
 # 🌐Accenture US🌐
 
-![Accenture](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Accenture.svg/1280px-Accenture.svg.png)
+
 
 <div align="center">
   <h2>🚀 Check out the live version: <a href="https://accenture-home-replica.netlify.app/">accenture-home-replica.netlify.app</a> 🚀</h2>
